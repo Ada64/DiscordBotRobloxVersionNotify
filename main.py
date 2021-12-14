@@ -44,4 +44,4 @@ async def before_some_task():
 
 
 
-client.run(bot_config["bot_token"])
+client.run("OTIwMDYyNDMxMjgyMjMzMzk0.Ybe46Q.hocYmQUICVqEu2ytqaWZNdPtpUA")
